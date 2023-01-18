@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "checked": false,
+      "student": "rohith"
+    },
+    {
+      "id": 2,
+      "checked": false,
+      "student": "abhishek"
+    },
+    {
+      "id": 3,
+      "checked": false,
+      "student": "sachin"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "student": "arjun"
+    },
+    {
+      "id": 5,
+      "checked": false,
+      "student": "siva"
+    },
+    {
+      "id": 6,
+      "checked": false,
+      "student": "rama"
+    },
+    {
+      "id": 7,
+      "checked": false,
+      "student": "rishi"
+    },
+    {
+      "id": 8,
+      "checked": false,
+      "student": "christopher"
+    },
+    {
+      "id": 9,
+      "checked": false,
+      "student": "jennifer"
+    },
+    {
+      "id": 10,
+      "checked": false,
+      "student": "meghana"
+    }
+  ]
+}
